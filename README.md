@@ -25,24 +25,24 @@ Após identificar a faixa correspondente, o programa calcula o desconto e aprese
 2. Copie este repositório:
 
 ```bash
-git  URL_DO_REPOSITORIO
+git  https://github.com/luizfelipeoluveira/Sistema-de-desconto-progressivo
 ```
 
 3. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd descontoapp.py
 ```
 
 4. Execute o programa:
 
 ```bash
-python descontoapp.py
+py descontoapp.py
 ```
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido como parte do meu aprendizado em **Python e lógica de programação**, buscando praticar e desenvolver meus conceitos teóricos em aplicações práticas sobre estrutura de decisão.
+Este projeto foi desenvolvido como parte do meu aprendizado em **Python e lógica de programação**, buscando praticar e desenvolver meus conhecimentos teóricos em aplicações práticas sobre estrutura de decisão.
 
 ---
 
