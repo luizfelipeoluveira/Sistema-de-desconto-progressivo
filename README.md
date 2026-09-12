@@ -22,7 +22,7 @@ Após identificar a faixa correspondente, o programa calcula o desconto e aprese
 ## ▶️ Como executar
 
 1. Tenha o **Python** instalado no computador.
-2. Clone este repositório:
+2. Copie este repositório:
 
 ```bash
 git  URL_DO_REPOSITORIO
